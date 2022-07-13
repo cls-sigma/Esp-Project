@@ -17,7 +17,7 @@ Schema complet ESP32 CAM https://i1.wp.com/randomnerdtutorials.com/wp-content/up
  Alimentation seulement par 5V et non 3.3V 
  
  ***Test Touch Sensor on GPIO 0, GPIO2, GPIO 4, GPIO14, 15, 13,12, 33 qui est le T8
-
+https://django-deploy-356017.uc.r.appspot.com
 
 ======Au cas ou 3 I2S ne peuvent fonctionner, utiliser le GPIO0( 25) et chercher un autre pin pour la camera voir si ça va marcher.========
 ***Possibilité de convertir l'audio wav en text: circuitdigest.com/microcontroller-projects/esp32-based-audio-player
