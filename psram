@@ -21,3 +21,4 @@ Schema complet ESP32 CAM https://i1.wp.com/randomnerdtutorials.com/wp-content/up
 
 ======Au cas ou 3 I2S ne peuvent fonctionner, utiliser le GPIO0( 25) et chercher un autre pin pour la camera voir si ça va marcher.========
 ***Possibilité de convertir l'audio wav en text: circuitdigest.com/microcontroller-projects/esp32-based-audio-player
+https://console.cloud.google.com/navigation-error;errorUrl=%2Fcloud-build%2Fbuilds%3Bregion%3Dus-central1%2F96508c74-9b4d-44dd-80f7-0cb9f17c0f01%3Fproject%3D1017762298717/permissions?project=1017762298717
