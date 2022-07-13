@@ -1,0 +1,19 @@
+link : thingpulse.com/esp32-how-to-use-psram
+projet github: https://github.com/s60sc/ESP32-CAM_MJPEG2SD
+Surveiller sa propre alimentation: xtronical.com/esp32monitorownbatteryvoltage
+Use GPIO 33 for LED
+GPIO3 : Microphone SD
+GPIO4: Microphone SCK
+GPIO12: Microphone WS
+
+gpio33: HIGH pour eteindre et Low pour allumer
+GPIO 14, 1, 2 for max98375A
+GPIO 15, 16 for pullup buttons
+GPIO 13 for Battery Control
+random tutorials esp32 CAM AI THINKER pinout for more about how to use pins 
+
+
+Schema complet ESP32 CAM https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/03/ESP32-CAM-AI-Thinker-schematic-diagram.png
+ Alimentation seulement par 5V et non 3.3V 
+ 
+ ***Test Touch Sensor on GPIO 0, GPIO2, GPIO 4, GPIO14, 15, 13,12
